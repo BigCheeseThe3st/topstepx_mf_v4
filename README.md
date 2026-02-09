@@ -4,7 +4,7 @@ This software is provided “as is” with no warranties. Trading involves subst
 
 ## Usage Warning
 
-This project is configured the way I have found works best in my testing, but it may not fit your account, broker, or market conditions. Always start on a **practice/sim account**, validate behavior, and only then consider a combine or live account. Do not assume past results will continue.
+This project is configured the way I have found works best in my testing and built for trading gold futures, but it may not fit your account, broker, or market conditions. Always start on a **practice/sim account**, validate behavior, and only then consider a combine or live account. Do not assume past results will continue.
 
 This tool works best with a stable, low‑latency internet connection. A wired connection is preferred.
 
@@ -120,7 +120,9 @@ Common causes:
 - Token expired
 - Network/websocket issues
 
-If you see repeated reconnect logs, verify contract availability and try reloading contracts.
+If you see repeated reconnect logs, verify contract availability and try reloading contracts. But I have found a full program restart works best.
+
+As of now I have no plans to fix the above so any contributions would be greatful.
 
 ### Wrong contract selected
 
