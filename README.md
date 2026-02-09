@@ -2,7 +2,7 @@
 
 This software is provided “as is” with no warranties. Trading involves substantial risk and you can lose money. You are solely responsible for any losses or damages resulting from use of this tool. Use at your own risk.
 
-##Licence Summary
+## Licence Summary
 
 You may:
 - Use this software for free
