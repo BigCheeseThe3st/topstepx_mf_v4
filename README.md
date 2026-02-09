@@ -1,3 +1,13 @@
+## Disclaimer
+
+This software is provided “as is” with no warranties. Trading involves substantial risk and you can lose money. You are solely responsible for any losses or damages resulting from use of this tool. Use at your own risk.
+
+## Usage Warning
+
+This project is configured the way I have found works best in my testing, but it may not fit your account, broker, or market conditions. Always start on a **practice/sim account**, validate behavior, and only then consider a combine or live account. Do not assume past results will continue.
+
+This tool works best with a stable, low‑latency internet connection. A wired connection is preferred.
+
 # TopstepX MF v4 (Switch)
 
 This medium-frequency version runs two strategies and switches between them by GMT time. It keeps v1 and v2 logic isolated in separate files and enforces trade windows, cooldowns, and (for v2) a manual news calendar filter.
