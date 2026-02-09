@@ -1,6 +1,6 @@
 # TopstepX MF v4 (Switch)
 
-This version runs two strategies and switches between them by GMT time. It keeps v1 and v2 logic isolated in separate files and enforces trade windows, cooldowns, and (for v2) a manual news calendar filter.
+This medium-frequency version runs two strategies and switches between them by GMT time. It keeps v1 and v2 logic isolated in separate files and enforces trade windows, cooldowns, and (for v2) a manual news calendar filter.
 
 ## Overview
 
